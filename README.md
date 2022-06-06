@@ -3,7 +3,7 @@ This repository is created for submitting the solutions of the assignments of th
 
 Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-developers
 
-## Repository Github Pagesgit
+## Repository Github Pages
    url: https://itsthomaspepe.github.io/WebDev-Coursera/
 
 ## Module #2 Coding Assignment Solution
