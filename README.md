@@ -3,8 +3,8 @@ This repository is created for submitting the solutions of the assignments of th
 
 Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-developers
 
-## Repository Github Pages
-    url: https://itsthomaspepe.github.io/WebDev-Coursera/
+## Repository Github Pagesgit
+   url: https://itsthomaspepe.github.io/WebDev-Coursera/
 
 ## Module #2 Coding Assignment Solution
    code url: https://github.com/itsthomaspepe/WebDev-Coursera/tree/main/module2-solution
@@ -23,6 +23,4 @@ Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-develope
   Hosted url: 
   
 # Front Look
-
-![](front_look.png)
 
