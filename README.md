@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Coursera-HTML-CSS-Javascript-for-Web-Developers (by Johns Hopkins University)
+This repository is created for submitting the solutions of the assignments of the course in Coursera.
 
-You can use the [editor on GitHub](https://github.com/itsthomaspepe/WebDev-Coursera/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-developers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Repository Github Pages
+    url: https://itsthomaspepe.github.io/WebDev-Coursera/
 
-### Markdown
+## Module #2 Coding Assignment Solution
+   code url: https://github.com/itsthomaspepe/WebDev-Coursera/tree/main/module2-solution
+   Hosted url: https://itsthomaspepe.github.io/WebDev-Coursera/module2-solution/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Module #3 Coding Assignment Solution
+  code url: 
+  Hosted url: 
 
-```markdown
-Syntax highlighted code block
+## Module #4 Coding Assignment Solution
+  code url: 
+  Hosted url: 
 
-# Header 1
-## Header 2
-### Header 3
+## Module #5 Coding Assignment Solution
+  code url: 
+  Hosted url: 
+  
+# Front Look
 
-- Bulleted
-- List
+![](front_look.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itsthomaspepe/WebDev-Coursera/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
