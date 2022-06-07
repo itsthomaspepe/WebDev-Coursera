@@ -12,8 +12,8 @@ This repository is created for submitting the solutions of the assignments of th
 
 ## Module #3 Coding Assignment Solution  
   [code url](https://github.com/itsthomaspepe/WebDev-Coursera/tree/main/module3-solution)  
-  [Hosted url](https://itsthomaspepe.github.io/WebDev-Coursera/module2-solution/)  
-  [Hosted url optional](https://itsthomaspepe.github.io/WebDev-Coursera/module2-solution/index_optional.html)  
+  [Hosted url](https://itsthomaspepe.github.io/WebDev-Coursera/module3-solution/)  
+  [Hosted url optional](https://itsthomaspepe.github.io/WebDev-Coursera/module3-solution/index_optional.html)  
 
 ## Module #4 Coding Assignment Solution  
   [code url](-)  
