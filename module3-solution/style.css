@@ -1,0 +1,26 @@
+/********** Base styles **********/
+
+/* whole html setting */
+html {
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    font-size: 16px;
+}
+
+/* all element setting */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* element setting */
+.bg-secondary{
+    background-color: rgb(197, 197, 197)!important;
+}
+
+div.bg-secondary{
+    height: 500px !important;
+}
