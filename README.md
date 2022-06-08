@@ -25,4 +25,4 @@ This repository is created for submitting the solutions of the assignments of th
   [Hosted Site](https://itsthomaspepe.github.io/WebDev-Coursera/module5-solution/)  
   
 # Front Look  
-![Image](https://itsthomaspepe.github.io/WebDev-Coursera\Web_Restaurant_Final_Image.jpg)  
+ ![Site Snapshot](https://github.com/itsthomaspepe/WebDev-Coursera/blob/main/Web_Restaurant_Final_Image.jpg)
