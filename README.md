@@ -21,9 +21,8 @@ This repository is created for submitting the solutions of the assignments of th
   [Hosted Site Hard](https://itsthomaspepe.github.io/WebDev-Coursera/module4-solution/harder)  
 
 ## Module #5 Coding Assignment Solution  
-  [Source Code](-)  
-  [Hosted Site](-)  
+  [Source Code](https://github.com/itsthomaspepe/WebDev-Coursera/tree/main/module5-solution)   
+  [Hosted Site](https://itsthomaspepe.github.io/WebDev-Coursera/module5-solution/)  
   
 # Front Look  
-![Image](-)  
-
+![Image](https://itsthomaspepe.github.io/WebDev-Coursera\Web_Restaurant_Final_Image.jpg)  
